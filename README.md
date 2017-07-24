@@ -15,3 +15,4 @@ Baseline:
 4) Использовать sentiframes
 
 5) синтаксис vs sentiframes
+6) Учитывать наличие НЕ
