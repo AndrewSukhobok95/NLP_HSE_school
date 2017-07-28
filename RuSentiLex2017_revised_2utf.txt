@@ -782,7 +782,7 @@
 благотворный, Adj, благотворный, positive, opinion
 благоустроенность, Noun, благоустроенность, positive, opinion
 благоустроенный, Adj, благоустроенный, positive, opinion
-благоустроить, Verb, благоустроить, postitive, opinion
+благоустроить, Verb, благоустроить, positive, opinion
 благоустройство, Noun, благоустройство, positive, fact, "БЛАГОУСТРОЙСТВО ТЕРРИТОРИИ"
 благоустройство, Noun, благоустройство, positive, opinion, "БЛАГОУСТРОЕННЫЙ"
 благоухание, Noun, благоухание, positive, feeling
@@ -3323,7 +3323,7 @@
 за гроши, NG, за грош, negative, opinion
 за и против, AdvG, за и против, neutral, opinion
 за сущие гроши, NG, за сущий грош, negative, opinion
-за что деньги, VG, PredicativeG, за что деньги, negative, opinion
+за что деньги, VG, за что деньги, negative, opinion
 заангажированность, Noun, заангажированность, negative, opinion
 заангажированный, Adj, заангажированный, negative, opinion
 заартачиться, Verb, заартачиться, negative, opinion
@@ -6608,7 +6608,6 @@
 настроение поднимать, VG, настроение поднимать, positive, feeling
 настроение поднялось, VG, настроение подняться, positive, feeling
 настроение поднять, VG, настроение поднять, positive, feeling
-настроение то, что нужно, NG, настроение то что нужный, positive, feeling
 настроить на философский лад, VG, настроить на философский лад, positive, feeling
 настырность, Noun, настырность, negative, opinion
 настырный, Adj, настырный, negative, opinion
@@ -10675,7 +10674,7 @@
 постоянное повторение, NG, постоянный повторение, negative, opinion
 постоянный повтор, NG, постоянный повтор, negative, opinion
 постоянство, Noun, постоянство, positive, opinion
-пострадать, , Verb, пострадать, negative, feeling
+пострадать, Verb, пострадать, negative, feeling
 постыдиться, Verb, постыдиться, negative, feeling
 постыдность, Noun, постыдность, negative, opinion
 постыдный, Adj, постыдный, negative, opinion
@@ -15063,7 +15062,7 @@
 урезонить, Verb, урезонить, positive, fact
 уровень жизни вырос, VG, уровень жизнь вырасти, positive, fact
 уровень жизни повысился, VG, уровень жизнь повыситься, positive, fact
-уровень жизни растет, VG, уровень жизнь, расти, positive, fact
+уровень жизни растет, VG, уровень жизнь расти, positive, fact
 уровень сложности, NG, уровень сложность, neutral, fact
 урод, Noun, урод, negative, opinion
 уродец, Noun, уродец, negative, opinion
