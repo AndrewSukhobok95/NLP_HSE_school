@@ -1,0 +1,1 @@
+wget -c http://rusvectores.org/static/models/rusvectores2/ruwikiruscorpora_rusvectores2.bin.gz
