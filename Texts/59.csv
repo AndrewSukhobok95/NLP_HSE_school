@@ -1,0 +1,23 @@
+ирак,ближний восток,positive
+иго,россия,negative
+москва,башар асад,negative
+москва,асад,negative
+россия,сша,negative
+сирия,москва,positive
+сирия,сша,positive
+сирия,нато,positive
+иго,сирия,negative
+иго,турция,negative
+иго с авиабаза инджерлик,сирия,negative
+иго с авиабаза инджерлик,турция,negative
+турция,сирия,negative
+россия,иго,negative
+сша,европа,negative
+европа,сша,negative
+москва,сирия,positive
+сирия,иго,negative
+сирия,иго с авиабаза инджерлик,negative
+иго,иго с авиабаза инджерлик,negative
+иго с авиабаза инджерлик,иго,negative
+турция,иго,negative
+турция,иго с авиабаза инджерлик,negative
