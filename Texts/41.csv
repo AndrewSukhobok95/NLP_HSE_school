@@ -1,0 +1,64 @@
+россия,великобритания,positive
+россия,европа,positive
+совет безопасность,европа,positive
+оон,европа,positive
+ес,россия,negative
+нато,россия,negative
+европа,россия,negative
+россия,сирия,positive
+россия,иран,positive
+сша,сирия,positive
+сша,иран,positive
+джон керри,россия,positive
+джон керри,сирия,positive
+джон керри,иран,positive
+керри,россия,positive
+керри,сирия,positive
+керри,иран,positive
+великобритания,россия,negative
+великобритания,запад,negative
+ссср,запад,negative
+великобритания,маргарет тэтчер,negative
+россия,оон,positive
+россия,совбез,positive
+россия,россия,positive
+запад,россия,positive
+запад,оон,positive
+запад,совбез,positive
+xxi век,владимир путин,negative
+xxi век,джордж буш,negative
+xxi век,запад,negative
+xxi век,ирак,negative
+xxi век,европа,negative
+xxi век,путин,negative
+владимир путин,ирак,negative
+владимир путин,европа,negative
+джордж буш,ирак,negative
+джордж буш,европа,negative
+запад,ирак,negative
+запад,европа,negative
+путин,ирак,negative
+путин,европа,negative
+россия,филип хэммонд,positive
+керри,филип хэммонд,positive
+ес,путин,negative
+великобритания,путин,negative
+путин,турция,positive
+путин,эрдоган,positive
+игила,ближний восток,negative
+путин,германия,positive
+путин,ангел меркель,positive
+эрдоган,германия,positive
+эрдоган,ангел меркель,positive
+эрдоган,эрдоган,positive
+германия,эрдоган,positive
+ангел меркель,эрдоган,positive
+россия,америка,negative
+сша,запад,negative
+сша,америка,negative
+лондон,запад,negative
+лондон,россия,negative
+лондон,америка,negative
+великобритания,ввс,negative
+россия,китай,positive
+великобритания,китай,positive

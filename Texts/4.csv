@@ -1,0 +1,71 @@
+россия,ближний восток,positive
+ближний восток,россия,positive
+сша,россия,positive
+владимир путин,путин,positive
+египет,россия,positive
+египет,путин,positive
+ближний восток,барак обама,positive
+ближний восток,обама,positive
+россия,украина,negative
+путин,россия,positive
+путин,башар асад,negative
+путин,крым,positive
+башар асад,россия,positive
+башар асад,крым,positive
+башар асад,украина,positive
+крым,украина,negative
+асад,россия,positive
+асад,крым,positive
+асад,украина,positive
+путин,обама,negative
+обама,сша,positive
+ирак,евросоюз,negative
+ирак,исламский государство,negative
+афганистан,евросоюз,negative
+афганистан,исламский государство,negative
+сирия,евросоюз,negative
+сирия,исламский государство,negative
+евросоюз,исламский государство,positive
+путин,сирия,positive
+сша,иран,positive
+саудовский аравия,сша,negative
+саудовский аравия,йемен,negative
+саудовский аравия,иран,negative
+йемен,сша,negative
+йемен,иран,negative
+иран,иран,positive
+россия,сирия,negative
+россия,владимир путин,negative
+россия,асад,negative
+путин,путин,positive
+сирия,путин,positive
+сирия,асад,positive
+владимир путин,асад,positive
+асад,путин,positive
+путин,ближний восток,positive
+обама,америка,positive
+саудовский аравия,америка,positive
+иран,игила,negative
+персидский залив,сша,negative
+персидский залив,иран,positive
+персидский залив,игила,negative
+игила,сша,positive
+игила,иран,positive
+сша,вашингтон,positive
+сша,персидский залив,positive
+сша,абдулрахман аль-рашид (abdulrahman al-rashed,positive
+персидский залив,вашингтон,positive
+совет,вашингтон,positive
+совет,персидский залив,positive
+совет,абдулрахман аль-рашид (abdulrahman al-rashed,positive
+совет,иран,positive
+абдулрахман аль-рашид (abdulrahman al-rashed,вашингтон,positive
+абдулрахман аль-рашид (abdulrahman al-rashed,иран,positive
+ближний восток,сша,positive
+россия,сша,negative
+обама,игила,positive
+исламский государство,россия,positive
+америка,исламский государство,negative
+совет,израиль,positive
+сирия,россия,positive
+сирия,вена,positive

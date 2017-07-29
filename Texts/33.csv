@@ -1,0 +1,23 @@
+германия,россия,positive
+россия,россия,positive
+украина,россия,positive
+германия,европа,positive
+германия,сша,positive
+сша,германия,negative
+сша,украина,negative
+сша,россия,positive
+сша,сша,negative
+россия,сша,positive
+россия,европа,positive
+франк-вальтер штайнмайер,россия,positive
+украина,сирия,positive
+сирия,россия,negative
+сирия,ближний восток,negative
+сирия,запад,negative
+сирия,сирия,negative
+сирия,исламский государство,negative
+асад,россия,negative
+асад,сирия,negative
+асад,исламский государство,negative
+асад,ближний восток,negative
+асад,запад,negative

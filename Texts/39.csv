@@ -1,0 +1,32 @@
+нато,россия,positive
+россия,нато,positive
+россия,совет,positive
+россия,крым,positive
+россия,москва,positive
+россия,украина,positive
+нато,совет,positive
+совет,совет,positive
+россия-нато,нато,positive
+россия-нато,совет,positive
+россия-нато,крым,positive
+россия-нато,москва,positive
+россия-нато,украина,positive
+столтенберг,совет,positive
+грушко,афганистан,positive
+россия,россия,positive
+россия,сирия,positive
+россия,турция,negative
+нато,сирия,positive
+нато,турция,positive
+украина,россия,positive
+украина,сирия,positive
+украина,турция,positive
+сирия,турция,negative
+организация,европа,positive
+организация,обсе,positive
+нато,венский документ,positive
+венский документ,нато,negative
+столтенберг,обсе,negative
+столтенберг,минск,negative
+украина,обсе,negative
+украина,минск,negative

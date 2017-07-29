@@ -1,0 +1,28 @@
+париж,россия,negative
+париж,синай,negative
+париж,запад,negative
+wall street journal,запад,negative
+россия,россия,negative
+россия,запад,negative
+the economist,россия,negative
+the economist,запад,negative
+россия,сша,positive
+россия,европа,positive
+россия,польша,positive
+россия,балтия,positive
+россия,германия,positive
+россия,италия,positive
+россия,франция,positive
+украина,сша,positive
+украина,европа,positive
+украина,польша,positive
+украина,балтия,positive
+украина,германия,positive
+украина,италия,positive
+украина,франция,positive
+россия,нато,positive
+россия,украина,positive
+россия,игила,positive
+париж,игила,negative
+запад,игила,positive
+нато,игила,positive

@@ -1,0 +1,30 @@
+сша,америка,positive
+соединять штат,китай,negative
+соединять штат,россия,negative
+вашингтон,сша,negative
+вашингтон,китай,negative
+вашингтон,россия,negative
+китай,сша,negative
+россия,сша,negative
+грэм,россия,positive
+россия,москва,positive
+москва,сша,negative
+организация объединять нация,всемирный торговый организация,positive
+сша,россия,positive
+сша,нато,negative
+сша,ес,negative
+россия,нато,negative
+россия,ес,negative
+путин,нато,negative
+путин,ес,negative
+грэм,соединенный штат,negative
+грэм,москва,negative
+сша,соединять штат,positive
+сша,оон,positive
+москва,соединять штат,positive
+москва,оон,positive
+восточный европа,соединять штат,positive
+восточный европа,оон,positive
+россия,европа,positive
+россия,россия,positive
+сша,москва,negative
