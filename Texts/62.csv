@@ -1,0 +1,146 @@
+сми,нато,negative
+сми,россия,negative
+иран,нато,negative
+иран,россия,negative
+финляндия,россия,negative
+нато,россия,negative
+пентагон,игила,positive
+пентагон,ракка,positive
+сша,игила,positive
+сша,ракка,positive
+игила,ракка,positive
+дамаск,сирия,negative
+вашингтон,сирия,negative
+москва,дамаск,negative
+москва,белый дом,negative
+дамаск,белый дом,negative
+сирия,вашингтон,positive
+дамаск,резах,negative
+москва,сша,negative
+москва,вашингтон,negative
+сирия,иго,negative
+сирия,обама,negative
+обама,иго,negative
+обама,ближний восток,positive
+белый дом,москва,negative
+белый дом,дамаск,negative
+дамаск,москва,negative
+сми,сирия,negative
+сми,москва,negative
+сми,алеппо,negative
+сша,дамаск,negative
+мид,вашингтон,positive
+джон керри,вашингтон,positive
+женева,вашингтон,positive
+асад,рф,negative
+асад,алеппо,negative
+асад,мид,negative
+асад,геннадий гатилов,negative
+алеппо,рф,negative
+алеппо,мид,negative
+алеппо,геннадий гатилов,negative
+сша,javan,positive
+сша,сирия,positive
+сша,алеппо,positive
+вашингтон,дамаск,negative
+javan,вашингтон,negative
+javan,дамаск,negative
+сирия,дамаск,negative
+сирия,москва,positive
+алеппо,вашингтон,negative
+алеппо,дамаск,negative
+мид,алеппо,negative
+россия,алеппо,negative
+аль-джазира,алеппо,negative
+москва,россия,negative
+сша,khorasan,negative
+сша,корейский полуостров,negative
+сша,северный корея,negative
+москва,khorasan,negative
+москва,корейский полуостров,negative
+москва,северный корея,negative
+пекин,khorasan,negative
+пекин,северный корея,negative
+корейский полуостров,khorasan,negative
+корейский полуостров,северный корея,negative
+северный корея,khorasan,negative
+вашингтон,корейский полуостров,negative
+рф,вашингтон,positive
+кнр,вашингтон,positive
+сша,фрг,negative
+нато,hamshahri,positive
+нато,балтийский,positive
+рф,россия,positive
+рф,hamshahri,positive
+рф,балтийский,positive
+брюссель,россия,positive
+брюссель,hamshahri,positive
+брюссель,балтийский,positive
+москва,нато,positive
+москва,балтика,positive
+балтика,россия,negative
+keyhan,нато,positive
+keyhan,швеция,positive
+финляндия,швеция,positive
+сша,resalat,negative
+сша,россия,negative
+сша,восточный европа,negative
+россия,восточный европа,negative
+европа,россия,negative
+европа,восточный европа,negative
+киев,россия,negative
+киев,восточный европа,negative
+нато,resalat,negative
+нато,ири,negative
+ес,resalat,negative
+ес,ири,negative
+владимир путин,москва,negative
+владимир путин,мвд,negative
+владимир путин,республика крым,negative
+сша,италия,negative
+сша,германия,negative
+сша,вальтер штайнмайер,negative
+сша,али алеми (ali alemi,negative
+сша,алеми,negative
+дональд трамп,resalat,negative
+дональд трамп,фрг,negative
+дональд трамп,италия,negative
+дональд трамп,германия,negative
+дональд трамп,вальтер штайнмайер,negative
+дональд трамп,али алеми (ali alemi,negative
+дональд трамп,алеми,negative
+трамп,resalat,negative
+трамп,фрг,negative
+трамп,италия,negative
+трамп,германия,negative
+трамп,вальтер штайнмайер,negative
+трамп,али алеми (ali alemi,negative
+трамп,алеми,negative
+алеми,сша,negative
+алеми,россия,negative
+алеми,трамп,negative
+трамп,россия,negative
+мид,сша,positive
+тегеран,keyhan,positive
+дамаск,keyhan,positive
+вашингтон,москва,negative
+Javan,москва,positive
+Javan,сирия,negative
+сирия,Javan,negative
+khorasan,сша,negative
+khorasan,москва,negative
+Khorasan,пекин,negative
+пекин,Khorasan,negative
+khorasan,корейский полуостров,negative
+khorasan,северный корея,negative
+москва,пекин,negative
+пекин,москва,negative
+корейский полуостров,сша,negative
+корейский полуостров,москва,negative
+северный корея,сша,negative
+северный корея,москва,negative
+keyhan,тегеран,positive
+keyhan,дамаск,positive
+тегеран,дамаск,positive
+дамаск,тегеран,positive
+карлуш,россия,positive

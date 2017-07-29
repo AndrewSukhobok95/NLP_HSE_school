@@ -1,0 +1,24 @@
+лукашенко,путин,negative
+белоруссия,россия,positive
+белоруссия,лукашенко,negative
+россия,советский союз,negative
+лукашенко,европа,negative
+россия,стратегия,positive
+россия,минск,positive
+леонид зайко,стратегия,positive
+леонид зайко,минск,positive
+евросоюз,путин,negative
+путин,лукашенко,negative
+лукашенко,россия,positive
+лукашенко,евросоюз,positive
+белоруссия,скурко,positive
+европа,скурко,positive
+лукашенко,белоруссия,positive
+скурко,лукашенко,negative
+dn,россия,negative
+dn,ryssland,negative
+belarus,россия,negative
+belarus,ryssland,negative
+vitryssland,россия,negative
+vitryssland,ryssland,negative
+европа,белоруссия,positive
