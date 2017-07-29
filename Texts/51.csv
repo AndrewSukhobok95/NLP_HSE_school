@@ -1,0 +1,83 @@
+пекин,россия,positive
+москва,россия,positive
+россия,китай,positive
+соединять штат,россия,positive
+соединять штат,китай,positive
+россия,москва,negative
+сирия,россия,negative
+сирия,пекин,negative
+сирия,москва,negative
+сирия,украина,negative
+украина,россия,negative
+украина,пекин,negative
+украина,москва,negative
+пекин,китай,positive
+россия,нато,negative
+россия,азия,negative
+сша,нато,negative
+европа,нато,negative
+европа,азия,negative
+нато,азия,positive
+кнр,россия,negative
+путин,си,positive
+китай,азия,negative
+китай,кнр,negative
+фонд,россия,negative
+фонд,китай,negative
+фонд,дальний восток,negative
+общественный мнение,россия,negative
+общественный мнение,китай,negative
+общественный мнение,дальний восток,negative
+дальний восток,россия,negative
+дальний восток,китай,negative
+экономический пояс шелковый путь,пекин,positive
+россия,сирия,negative
+россия,украина,negative
+кнр,пекин,negative
+кнр,украина,positive
+соединенный штат,пекин,negative
+соединенный штат,россия,negative
+соединенный штат,украина,negative
+крым,украина,positive
+мид,украина,positive
+запад,россия,positive
+запад,нато,positive
+россия,игила,negative
+вашингтон,россия,negative
+башар асад,россия,negative
+исламский государство,россия,negative
+игила,россия,negative
+китай,сша,negative
+китай,игила,negative
+сша,игила,negative
+китай,соединенный штат,positive
+китай,иран,positive
+вашингтон,москва,negative
+россия,вашингтон,negative
+китай,вашингтон,negative
+сша,вашингтон,positive
+кнр,соединять штат,positive
+соединять штат,ирак,negative
+кнр,сша,positive
+спратль,сша,positive
+южно-китайский море,сша,positive
+пекин,южно-китайский море,negative
+соединенный штат,китай,positive
+кнр,оон,positive
+пекин,тайвань,negative
+вашингтон,южно-китайский море,negative
+вашингтон,тайвань,negative
+сша,азиатско-тихоокеанский регион,positive
+соединять штат,пекин,negative
+китайско-американский связь,россия,negative
+китайско-американский связь,сша,negative
+пекин,вашингтон,negative
+москва,вашингтон,negative
+пекин,москва,negative
+украина,сирия,negative
+азия,китай,negative
+россия,дальний восток,negative
+китай,дальний восток,negative
+вашингтон,башар,positive
+иран,китай,positive
+ирак,соединять штат,negative
