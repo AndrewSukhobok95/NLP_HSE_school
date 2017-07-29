@@ -2,6 +2,7 @@
 россия,европа,positive
 совет безопасность,европа,positive
 оон,европа,positive
+америка,россия,positive
 ес,россия,negative
 нато,россия,negative
 европа,россия,negative
@@ -16,12 +17,15 @@
 керри,сирия,positive
 керри,иран,positive
 великобритания,россия,negative
+америка,сша,positive
+америка,советский союз,positive
+америка,ссср,positive
+великобритания,нато,negative
 великобритания,запад,negative
 ссср,запад,negative
 великобритания,маргарет тэтчер,negative
 россия,оон,positive
 россия,совбез,positive
-россия,россия,positive
 запад,россия,positive
 запад,оон,positive
 запад,совбез,positive
@@ -42,23 +46,35 @@ xxi век,путин,negative
 россия,филип хэммонд,positive
 керри,филип хэммонд,positive
 ес,путин,negative
+великобритания,ес,negative
 великобритания,путин,negative
 путин,турция,positive
 путин,эрдоган,positive
+россия,ес,negative
 игила,ближний восток,negative
 путин,германия,positive
 путин,ангел меркель,positive
 эрдоган,германия,positive
 эрдоган,ангел меркель,positive
-эрдоган,эрдоган,positive
 германия,эрдоган,positive
 ангел меркель,эрдоган,positive
-россия,америка,negative
+россия,запад,positive
+россия,сша,positive
+америка,запад,positive
 сша,запад,negative
-сша,америка,negative
+сша,америка,positive
+великобритания,америка,positive
 лондон,запад,negative
 лондон,россия,negative
 лондон,америка,negative
+россия,нато,positive
 великобритания,ввс,negative
 россия,китай,positive
 великобритания,китай,positive
+америка,великобритания,positive
+советский союз,америка,positive
+ссср,америка,positive
+ес,великобритания,negative
+путин,великобритания,negative
+запад,америка,positive
+нато,великобритания,negative

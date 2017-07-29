@@ -2,19 +2,18 @@
 ближний восток,россия,positive
 сша,россия,positive
 владимир путин,путин,positive
+россия,путин,negative
 египет,россия,positive
 египет,путин,positive
 ближний восток,барак обама,positive
 ближний восток,обама,positive
 россия,украина,negative
-путин,россия,positive
 путин,башар асад,negative
 путин,крым,positive
 башар асад,россия,positive
 башар асад,крым,positive
 башар асад,украина,positive
 крым,украина,negative
-асад,россия,positive
 асад,крым,positive
 асад,украина,positive
 путин,обама,negative
@@ -26,19 +25,17 @@
 сирия,евросоюз,negative
 сирия,исламский государство,negative
 евросоюз,исламский государство,positive
-путин,сирия,positive
+путин,сирия,negative
 сша,иран,positive
 саудовский аравия,сша,negative
 саудовский аравия,йемен,negative
 саудовский аравия,иран,negative
 йемен,сша,negative
 йемен,иран,negative
-иран,иран,positive
 россия,сирия,negative
 россия,владимир путин,negative
 россия,асад,negative
-путин,путин,positive
-сирия,путин,positive
+сирия,путин,negative
 сирия,асад,positive
 владимир путин,асад,positive
 асад,путин,positive
@@ -47,12 +44,9 @@
 саудовский аравия,америка,positive
 иран,игила,negative
 персидский залив,сша,negative
-персидский залив,иран,positive
+персидский залив,иран,negative
 персидский залив,игила,negative
-игила,сша,positive
-игила,иран,positive
 сша,вашингтон,positive
-сша,персидский залив,positive
 сша,абдулрахман аль-рашид (abdulrahman al-rashed,positive
 персидский залив,вашингтон,positive
 совет,вашингтон,positive
@@ -67,5 +61,14 @@
 исламский государство,россия,positive
 америка,исламский государство,negative
 совет,израиль,positive
-сирия,россия,positive
+сирия,россия,negative
 сирия,вена,positive
+обама,путин,negative
+владимир,сирия,negative
+сирия,владимир,negative
+владимир путин,россия,negative
+асад,сирия,negative
+сша,игила,negative
+иран,персидский залив,negative
+игила,персидский залив,negative
+ближний восток,путин,positive

@@ -1,4 +1,5 @@
 кристиан йенсен,ес,positive
+ес,кристиан йенсен,positive
 мид,евросоюз,positive
 дания,евросоюз,positive
 дания,брюссель,positive
@@ -19,6 +20,9 @@
 дания,мортен мессершмидт (morten messerschmidt,positive
 ес,голландия,negative
 голландец,украина,positive
+дания,британия,positive
+британия,дания,positive
+британия,брюссель,positive
 дания,польша,positive
 евросоюз,европа,positive
 британия,евросоюз,positive
@@ -26,9 +30,10 @@
 евросоюз,кристиан йенсен,positive
 евросоюз,ес,positive
 датский народный партия,ес,positive
+россия,владимир путин,negative
+россия,путин,negative
 путин,ес,positive
 путин,европа,positive
-путин,британия,negative
 национальный фронт,европа,positive
 национальный фронт,марина ле пена (marine le pen,positive
 национальный фронт,ле пена,positive
@@ -36,6 +41,24 @@
 путин,марина ле пена (marine le pen,positive
 путин,ле пена,positive
 кристиан йенсен,европа,negative
+путин,россия,negative
 россия,европа,negative
 нато,ес,positive
 европейский союз,ес,negative
+турция,кристиан йенсен,positive
+британия,европейский парламент,positive
+национальный фронт,европейский парламент,positive
+франция,европейский парламент,positive
+соединенный королевство,европейский парламент,positive
+датский народный партия,дания,positive
+dansk folkeparti,дания,positive
+мортен мессершмидт (morten messerschmidt,дания,positive
+брюссель,дания,positive
+брюссель,британия,positive
+владимир путин,россия,negative
+ес,путин,positive
+британия,путин,positive
+европа,путин,positive
+национальный фронт,путин,positive
+марина ле пена (marine le pen,путин,positive
+ле пена,путин,positive

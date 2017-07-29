@@ -5,7 +5,6 @@
 россия,москва,positive
 россия,украина,positive
 нато,совет,positive
-совет,совет,positive
 россия-нато,нато,positive
 россия-нато,совет,positive
 россия-нато,крым,positive
@@ -13,7 +12,6 @@
 россия-нато,украина,positive
 столтенберг,совет,positive
 грушко,афганистан,positive
-россия,россия,positive
 россия,сирия,positive
 россия,турция,negative
 нато,сирия,positive
@@ -30,3 +28,9 @@
 столтенберг,минск,negative
 украина,обсе,negative
 украина,минск,negative
+минск,обсе,negative
+европа,организация,positive
+европа,обсе,positive
+обсе,организация,positive
+обсе,европа,positive
+обсе,минск,negative

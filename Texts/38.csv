@@ -6,6 +6,7 @@
 сирия,асад,negative
 башар асад,кремль,negative
 асад,кремль,negative
+foreign policy,путин,positive
 foreign policy,сирия,positive
 путин,хмеймим,positive
 путин,латакия,positive
@@ -13,3 +14,10 @@ foreign policy,сирия,positive
 москва,латакия,positive
 havoc,appache,positive
 havoc,сша,positive
+запад,путин,negative
+сирия,путин,negative
+сирия,запад,negative
+башар асад,асад,negative
+асад,башар асад,negative
+путин,foreign policy,positive
+сирия,foreign policy,positive

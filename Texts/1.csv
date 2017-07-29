@@ -12,8 +12,11 @@
 дамаск,сирия,negative
 вашингтон,сирия,negative
 москва,дамаск,negative
+москва,белый дом,negative
+дамаск,белый дом,negative
 сирия,вашингтон,positive
 дамаск,резах,negative
+москва,сша,negative
 москва,вашингтон,negative
 сирия,иго,negative
 сирия,обама,negative
@@ -21,6 +24,7 @@
 обама,ближний восток,positive
 белый дом,москва,negative
 белый дом,дамаск,negative
+дамаск,москва,negative
 сми,сирия,negative
 сми,москва,negative
 сми,алеппо,negative
@@ -35,7 +39,6 @@
 алеппо,рф,negative
 алеппо,мид,negative
 алеппо,геннадий гатилов,negative
-сша,москва,positive
 сша,javan,positive
 сша,сирия,positive
 сша,алеппо,positive
@@ -43,6 +46,7 @@
 javan,вашингтон,negative
 javan,дамаск,negative
 сирия,дамаск,negative
+сирия,москва,positive
 алеппо,вашингтон,negative
 алеппо,дамаск,negative
 мид,алеппо,negative
@@ -50,13 +54,16 @@ javan,дамаск,negative
 аль-джазира,алеппо,negative
 москва,россия,negative
 сша,khorasan,negative
+сша,корейский полуостров,negative
 сша,северный корея,negative
 москва,khorasan,negative
+москва,корейский полуостров,negative
 москва,северный корея,negative
 пекин,khorasan,negative
 пекин,северный корея,negative
 корейский полуостров,khorasan,negative
 корейский полуостров,северный корея,negative
+северный корея,khorasan,negative
 вашингтон,корейский полуостров,negative
 рф,вашингтон,positive
 кнр,вашингтон,positive
@@ -120,3 +127,24 @@ keyhan,швеция,positive
 глава немецкий мид,сша,positive
 тегеран,keyhan,positive
 дамаск,keyhan,positive
+вашингтон,москва,negative
+Javan,москва,positive
+Javan,сирия,negative
+сирия,Javan,negative
+khorasan,сша,negative
+khorasan,москва,negative
+Khorasan,пекин,negative
+пекин,Khorasan,negative
+khorasan,корейский полуостров,negative
+khorasan,северный корея,negative
+москва,пекин,negative
+пекин,москва,negative
+корейский полуостров,сша,negative
+корейский полуостров,москва,negative
+северный корея,сша,negative
+северный корея,москва,negative
+keyhan,тегеран,positive
+keyhan,дамаск,positive
+тегеран,дамаск,positive
+дамаск,тегеран,positive
+карлуш,россия,positive

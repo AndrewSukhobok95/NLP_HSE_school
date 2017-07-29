@@ -10,7 +10,6 @@
 россия,москва,positive
 москва,сша,negative
 организация объединять нация,всемирный торговый организация,positive
-сша,россия,positive
 сша,нато,negative
 сша,ес,negative
 россия,нато,negative
@@ -26,5 +25,12 @@
 восточный европа,соединять штат,positive
 восточный европа,оон,positive
 россия,европа,positive
-россия,россия,positive
 сша,москва,negative
+запад,россия,negative
+китай,россия,negative
+россия,китай,negative
+сша,вашингтон,negative
+сша,китай,negative
+китай,вашингтон,negative
+россия,вашингтон,negative
+россия,запад,negative

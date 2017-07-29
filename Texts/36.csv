@@ -1,3 +1,6 @@
+запад,россия,negative
+запад,путин,negative
+путин,россия,negative
 венеция,константинополь,negative
 россия,путин,negative
 россия,украина,negative
@@ -10,6 +13,8 @@
 путин,азербайджан,negative
 путин,армения,negative
 путин,запад,negative
+грузия,россия,negative
+грузия,крым,negative
 грузия,украина,negative
 грузия,азербайджан,negative
 грузия,армения,negative
@@ -18,9 +23,10 @@
 крым,азербайджан,negative
 крым,армения,negative
 крым,запад,negative
+украина,азербайджан,negative
 украина,армения,negative
-азербайджан,азербайджан,positive
-армения,азербайджан,positive
+украина,запад,negative
+азербайджан,армения,negative
 армения,запад,positive
 путин,сирия,positive
 путин,америка,positive
@@ -33,4 +39,27 @@
 нато-россия,балтийский море,negative
 путин,вмс,negative
 разведка путин,россия,positive
-путин,путин,negative
+россия,грузия,negative
+грузия,путин,negative
+крым,путин,negative
+крым,грузия,negative
+украина,россия,negative
+украина,путин,negative
+украина,грузия,negative
+украина,крым,negative
+азербайджан,россия,negative
+азербайджан,путин,negative
+азербайджан,грузия,negative
+азербайджан,крым,negative
+азербайджан,украина,negative
+армения,россия,negative
+армения,путин,negative
+армения,грузия,negative
+армения,крым,negative
+армения,украина,negative
+запад,грузия,negative
+запад,крым,negative
+запад,украина,negative
+сша,израиль,negative
+израиль,сша,negative
+вмс,путин,negative

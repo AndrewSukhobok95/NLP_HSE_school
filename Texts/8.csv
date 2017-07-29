@@ -1,9 +1,10 @@
 vg,европа,negative
 путин,европа,negative
 путин,ес,negative
+россия,путин,negative
+россия,ес,negative
 россия,украина,negative
 украина,vg,negative
-украина,украина,negative
 украина,сирия,negative
 украина,климкин,negative
 крым,vg,negative
@@ -14,6 +15,13 @@ vg,европа,negative
 восточный украина,украина,negative
 восточный украина,сирия,negative
 восточный украина,климкин,negative
-россия,климкин,negative
+ес,путин,negative
+украина,донбасс,negative
+донбасс,украина,negative
+ес,россия,negative
 путин,россия,negative
 путин,семерка,negative
+семерка,россия,negative
+семерка,путин,negative
+россия,семерка,negative
+климкин,россия,positive

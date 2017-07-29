@@ -27,9 +27,23 @@
 запад,украина,negative
 иран,восточный украина,negative
 иран,украина,negative
+штюрмер,украина,negative
 ангел меркель,штюрмер,positive
 белый дом,украина,negative
 белый дом,киев,negative
+киев,украина,negative
 бузина,владимир путин,positive
 бузина,борис немцов,positive
 бузина,борис немцов (berliner zeitung,positive
+путин,борис,negative
+ес,евросоюз,negative
+греция,евросоюз,negative
+кремль,евросоюз,negative
+михаэль,украина,negative
+украина,михаэль,negative
+украина,штюрмер,negative
+украина,белый дом,negative
+украина,киев,negative
+киев,белый дом,negative
+борис немцов,борис немцов (berliner zeitung,negative
+борис немцов (berliner zeitung,борис немцов,negative

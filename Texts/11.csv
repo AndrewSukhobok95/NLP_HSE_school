@@ -2,8 +2,8 @@
 париж,синай,negative
 париж,запад,negative
 wall street journal,запад,negative
-россия,россия,negative
 россия,запад,negative
+россия,the economist,positive
 the economist,россия,negative
 the economist,запад,negative
 россия,сша,positive
@@ -26,3 +26,8 @@ the economist,запад,negative
 париж,игила,negative
 запад,игила,positive
 нато,игила,positive
+игила,россия,positive
+игила,запад,positive
+синай,париж,negative
+запад,россия,positive
+запад,the economist,positive

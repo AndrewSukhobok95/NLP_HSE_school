@@ -1,4 +1,6 @@
 великобритания,ес,positive
+великобритания,сша,negative
+сша,великобритания,negative
 атлантический совет,великобритания,positive
 атлантический совет,ес,positive
 атлантический совет,сша,positive
@@ -10,6 +12,7 @@
 атлантический совет,натали нугеред,positive
 атлантический совет,нугеред,positive
 нугеред,ес,positive
+нугеред,сша,positive
 brexit,ес,positive
 brexit,россия,positive
 ес,украина,negative
@@ -22,6 +25,10 @@ brexit,москва,positive
 европа,нугеред,positive
 натали нугеред,москва,positive
 нугеред,москва,positive
+европа,россия,positive
+великобритания,нато,negative
+нато,великобритания,negative
+нато,сша,negative
 европа,вашингтон,positive
 сша,европа,positive
 сша,вашингтон,positive
@@ -32,3 +39,5 @@ brexit,москва,positive
 ричард морнингстар,великобритания,negative
 уестмэкотт,ес,positive
 питер уестмэкотт,ес,positive
+россия,европа,positive
+сша,нато,negative

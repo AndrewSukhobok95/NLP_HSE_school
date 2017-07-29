@@ -1,8 +1,10 @@
-россия,россия,negative
 россия,рио,negative
 россия,соединенный штат,negative
 россия,евросоюз,negative
 россия,украина,negative
+рио,соединенный штат,negative
+рио,украина,negative
+евросоюз,украина,positive
 советский союз,запад,negative
 афганистан,советский союз,negative
 афганистан,запад,negative
@@ -14,14 +16,23 @@ iaaf,соединенный королевство,negative
 москва,соединенный королевство,negative
 аргумент,iaaf,negative
 путин,iaaf,negative
+запад,россия,negative
 нато,россия,negative
 нато,запад,negative
 iaaf,россия,negative
 путин,россия,negative
 крым,россия,negative
 крым,iaaf,negative
+нато,германия,negative
 нато,альянс,negative
 bild am sonntag,альянс,negative
 германия,альянс,negative
 штайнмайер,ангел меркель,positive
 россия,европа,positive
+соединенный штат,рио,negative
+украина,рио,negative
+россия,запад,negative
+Bild,нато,negative
+нато,Bild,negative
+германия,нато,negative
+альянс,нато,negative

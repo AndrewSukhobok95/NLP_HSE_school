@@ -2,7 +2,6 @@
 владимир путин,ес,positive
 ес,россия,negative
 путин,jyllands-posten,positive
-ес,ес,positive
 флемминг сплидбель,ес,negative
 флемминг сплидбель,россия,negative
 путин,сплидбель,positive
@@ -11,12 +10,19 @@
 сплидбель,россия,negative
 европа,россия,negative
 европа,ес,negative
+нато,ес,positive
 великобритания,ес,positive
 великобритания,сша,positive
 великобритания,нато,positive
-нато,нато,positive
 нато,йенс столтенберг,positive
 ес,jyllands-posten,positive
+ес,великобритания,positive
 великобритания,jyllands-posten,positive
-великобритания,великобритания,positive
 юханнес рибера нурдбю,россия,negative
+ес,путин,positive
+ес,владимир путин,positive
+ес,сша,positive
+сша,ес,positive
+сша,великобритания,positive
+ес,нато,positive
+йенс столтенберг,нато,positive

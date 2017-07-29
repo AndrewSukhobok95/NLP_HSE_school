@@ -3,8 +3,6 @@
 белоруссия,лукашенко,negative
 россия,советский союз,negative
 лукашенко,европа,negative
-европа,европа,negative
-белоруссия,европа,negative
 россия,стратегия,positive
 россия,минск,positive
 леонид зайко,стратегия,positive
@@ -23,3 +21,4 @@ belarus,россия,negative
 belarus,ryssland,negative
 vitryssland,россия,negative
 vitryssland,ryssland,negative
+европа,белоруссия,positive

@@ -1,10 +1,10 @@
 путин,россия,negative
 сорос,путин,positive
-россия,путин,positive
+россия,путин,negative
 аркадий ротенберг,путин,positive
 путин,асад,negative
 путин,снеговой,negative
-асад,асад,negative
+асад,путин,negative
 снеговой,асад,negative
 сирия,путин,negative
 сергей иванов,александр бортников,positive
@@ -27,7 +27,7 @@ gunvor,россия,positive
 тимченко,россия,positive
 путин,ельцин,negative
 путин,семья ельцин,negative
-путин,нтв,positive
+путин,нтв,negative
 владимир гусинский,нтв,positive
 нтв,россия,negative
 путин,forbes,positive
@@ -64,9 +64,9 @@ forbes,башнефть,negative
 рахимов,путин,positive
 чечня,кадыров,positive
 кадыров,кремль,negative
+кадыров,чечня,positive
 москва,красноярск,negative
-кадыров,исламский государство,negative
-ближний восток,исламский государство,negative
+кадыров,ближний восток,positive
 сирия,россия,negative
 сирия,владимир путин,negative
 сирия,instagram,negative
@@ -87,19 +87,18 @@ forbes,башнефть,negative
 омар чеченец,владимир путин,negative
 омар чеченец,instagram,negative
 иванов,запад,negative
-великобритания,великобритания,negative
 великобритания,иванов,negative
 великобритания,олег гордиевский,negative
-иванов,иванов,negative
+иванов,великобритания,negative
 иванов,олег гордиевский,negative
 иванов,путин,negative
-доктор стренджлав,россия,negative
-джек риппер,россия,negative
-патрушев,россия,negative
+доктор стренджлав,сша,positive
+джек риппер,сша,positive
 патрушев,сша,positive
 сша,россия,negative
 нато,майдан,negative
 нато,крым россия,negative
+россия,дальний восток,negative
 патрушев,сибирь,negative
 патрушев,дальний восток,negative
 сша,сибирь,negative
@@ -110,7 +109,36 @@ forbes,башнефть,negative
 олбрайт,россия,negative
 олбрайт,сибирь,negative
 олбрайт,дальний восток,negative
-россия,россия,negative
 россия,сша,negative
 москва,киев,negative
 москва,майдан,negative
+путин,владимир,negative
+владимир,путин,negative
+нтв,путин,negative
+россия,forbes,negative
+башнефть,forbes,negative
+борис немцов,немцов,negative
+немцов,борис немцов,negative
+ближний восток,кадыров,positive
+исламский государство,кадыров,positive
+исламский государство,ближний восток,positive
+олег,великобритания,negative
+россия,доктор стренджлав,positive
+россия,джек риппер,positive
+россия,патрушев,positive
+сша,доктор стренджлав,positive
+сша,джек риппер,positive
+сша,патрушев,positive
+россия,мадлен олбрайт,negative
+россия,сибирь,negative
+россия,олбрайт,negative
+сибирь,россия,negative
+сибирь,сша,negative
+сибирь,мадлен олбрайт,negative
+сибирь,дальний восток,negative
+сибирь,олбрайт,negative
+дальний восток,россия,negative
+дальний восток,сша,negative
+дальний восток,мадлен олбрайт,negative
+дальний восток,сибирь,negative
+дальний восток,олбрайт,negative

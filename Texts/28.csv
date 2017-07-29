@@ -1,7 +1,10 @@
 шойгу,россия,positive
+россия,украина,positive
+россия,сирия,positive
 шойгу,крым,positive
 шойгу,украина,positive
 шойгу,сирия,positive
+крым,сирия,positive
 шойгу,путин,positive
 конь,путин,positive
 сирия,шредер,positive
@@ -10,3 +13,8 @@
 москва,ханс хеннинг шредер,positive
 шойгу,вциом,negative
 хотя шойгу,вциом,negative
+россия,крым,positive
+украина,крым,positive
+украина,россия,positive
+сирия,крым,positive
+путин,шойгу,positive

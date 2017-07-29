@@ -1,4 +1,5 @@
 украина,россия,positive
+россия,сирия,positive
 россия,австралия,positive
 сирия,россия,positive
 the guardian,сирия,positive
@@ -9,25 +10,33 @@ the guardian,россия,positive
 путин,ар,positive
 обама,украина,positive
 обама,ар,positive
+обама,асад,positive
 обама,россия,negative
-запад,россия,positive
 запад,путин,positive
 запад,украина,positive
-сирия,сирия,positive
 сирия,сирия-россия,positive
+россия,запад,negative
 россия,париж,negative
 сирия,идил,positive
 сми,оон,positive
 сми,путин,positive
+россия,ес,positive
 ес,россия,positive
-ес,ес,negative
 россия,крым,negative
 вильям тейлор,американский институт мир,positive
 вильям тейлор,вашингтон,positive
 россия,донбасс,negative
 крым,донбасс,negative
+крым,сирия,negative
 россия,асад,negative
 франция,россия,positive
 сирия,realpolitik,negative
 запад,сирия,positive
 россия,realpolitik,negative
+украина,запад,positive
+обама,башар,positive
+путин,запад,positive
+запад,кремль,negative
+кремль,запад,negative
+сирия,крым,negative
+донбасс,крым,negative

@@ -7,8 +7,10 @@
 сша,сирия,negative
 игила,башар асад,negative
 хафез асад,сирия,negative
+израиль,голанский высота,positive
 москва,израиль,positive
 москва,голанский высота,positive
+голанский высота,израиль,positive
 ицхак рабин,сирия,negative
 уоррен кристофер,сирия,negative
 хафез асад,голанский высота,negative
@@ -17,9 +19,14 @@
 иран,тегеран,positive
 дамаск,тегеран,positive
 асад,тегеран,positive
-израиль,иран,negative
+израиль,иран,positive
 народ,башар асад,positive
 народ,асад,positive
 сирия,иран,positive
 сирия,израиль,positive
 голан,иран,negative
+башар асад,иран,negative
+кремль,иран,negative
+асад,иран,negative
+израиль,россия,positive
+иран,израиль,positive
