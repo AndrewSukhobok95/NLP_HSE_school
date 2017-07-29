@@ -1,0 +1,57 @@
+сша,тегеран,positive
+сша,ияп,positive
+тегеран,ом,positive
+иран,россия,positive
+иран,казахстан,positive
+нпз,россия,positive
+нпз,казахстан,positive
+иран,турция,positive
+иран,китай,positive
+иран,южный корея,positive
+иран,индия,positive
+иран,япония,positive
+иран,кнр,positive
+тегеран,сб оон,positive
+сша,совбез,positive
+ири,совбез,positive
+швейцария,сша,positive
+швейцария,ири,positive
+швейцария,совбез,positive
+иран,нинк,positive
+иран,лозанна,positive
+тегеран,сша,positive
+тегеран,ес,positive
+венесуэла,турция,positive
+белоруссия,турция,positive
+бразилия,турция,positive
+эквадор,турция,positive
+сирия,турция,positive
+малайзия,турция,positive
+ири,турция,positive
+турция,ири,positive
+турция,анкара,positive
+али бабакан,ири,positive
+али бабакан,анкара,positive
+ири,иран,negative
+турция,иран,positive
+турция,греция,negative
+турция,португалия,negative
+турция,кипр,negative
+совет,ири,positive
+совет,соцпр,positive
+совет,мохсен резай,positive
+соцпр,иран,negative
+мохсен резай,иран,negative
+ияп,сша,positive
+россия,иран,positive
+россия,нпз,positive
+казахстан,иран,positive
+казахстан,нпз,positive
+кнр,иран,positive
+южный корея,иран,positive
+индия,иран,positive
+япония,иран,positive
+сб оон,тегеран,positive
+ири,али бабакан,positive
+анкара,турция,positive
+анкара,али бабакан,positive
