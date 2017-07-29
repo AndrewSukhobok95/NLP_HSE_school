@@ -1,0 +1,16 @@
+украина,игила,positive
+украина,россия,negative
+украина,прима. ред,negative
+крым,игила,positive
+крым,россия,negative
+крым,прима. ред,negative
+европа,игила,positive
+европа,россия,negative
+европа,прима. ред,negative
+игила,россия,negative
+игила,прима. ред,negative
+ключ,россия,positive
+дмитрий,владимир,positive
+дмитрий,путин,positive
+владимир путин,путин,positive
+путин,владимир путин,positive
